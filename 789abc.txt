@@ -1,2 +1,9 @@
 This is a new first file/ 
 clone
+
+
+$y=b$
+
+
+\begin{equation}....\end{equation}
+
